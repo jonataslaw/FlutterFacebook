@@ -42,7 +42,7 @@ class CreatePost extends StatelessWidget {
                   new Padding(
                     padding: const EdgeInsets.all(2.0),
                     child: Text(
-                      "यहाँ कुछ लिखिए...",
+                      "Conte algo para seus contatos...",
                       style: TextStyle(fontSize: 13.0),
                     ),
                   ),
